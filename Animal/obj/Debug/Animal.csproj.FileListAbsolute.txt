@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\Animal\Animal\bin\Debug\Animal.exe.config
+C:\Users\ruzickat.04\source\repos\Animal\Animal\bin\Debug\Animal.exe
+C:\Users\ruzickat.04\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.Form1.resources
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.exe
+C:\Users\ruzickat.04\source\repos\Animal\Animal\obj\Debug\Animal.pdb
